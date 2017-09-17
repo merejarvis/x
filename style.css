@@ -1,0 +1,58 @@
+
+#row{
+  display: flex;
+  align-items: center;
+}
+
+body{
+  background: #333 !important;
+}
+h1 {
+  text-align: right;
+}
+
+.azm{
+  padding-top: 10px;
+}
+
+.container{
+  color: #000;
+  background: #fff;
+}
+
+p {
+  text-indent: 50px;
+}
+
+.links{
+  color: #FFE4C4;
+}
+
+h3{
+  text-align: center;
+}
+
+#tech{
+  text-align: center;
+}
+
+.link-row{
+  text-align: center;
+  color: #FFE4C4;
+}
+
+
+
+#find{
+  color: white;
+}
+
+footer{
+  padding-top: 10px;
+  background:#96160B;
+}
+
+.section{
+  padding-top: 10px;
+
+}
