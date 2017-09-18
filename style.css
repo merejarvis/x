@@ -1,12 +1,16 @@
+body{
+  background: #333 !important;
+  font-family: 'Open Sans', serif !important;
+
+}
+
+.container{
+  max-width: 970px;
+}
 
 #row{
   display: flex;
   align-items: center;
-}
-
-body{
-  background: #333 !important;
-  font-family: 'Open Sans', serif !important;
 }
 
 h1 {
@@ -81,7 +85,6 @@ footer{
   padding-top: 10px;
   padding-right: 15px;
   text-indent: 30px;
-  width: 455px;
   text-align: justify;
 }
 
