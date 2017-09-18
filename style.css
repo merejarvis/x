@@ -1,11 +1,11 @@
 body{
   background: #333 !important;
   font-family: 'Open Sans', serif !important;
-
 }
 
 .container{
   max-width: 970px;
+  min-width: 320px;
 }
 
 #row{
