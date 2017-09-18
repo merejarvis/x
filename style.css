@@ -6,7 +6,9 @@
 
 body{
   background: #333 !important;
+  font-family: 'Open Sans', serif !important;
 }
+
 h1 {
   text-align: right;
 }
@@ -25,34 +27,68 @@ p {
 }
 
 .links{
-  color: #FFE4C4;
+  color: #DCDCDC;
 }
 
 h3{
-  text-align: center;
+  text-align: left;
+  text-indent: 50px;
 }
 
 #tech{
-  text-align: center;
+  text-indent: 50px;
 }
 
 .link-row{
   text-align: center;
-  color: #FFE4C4;
+  color: #DCDCDC;
 }
-
-
 
 #find{
   color: white;
 }
 
+#quote{
+  padding: 30px;
+  text-align: justify;
+  font-style: italic;
+  color: #0c0c0c;
+}
+
 footer{
   padding-top: 10px;
-  background:#96160B;
+  padding-bottom: 10px;
+  background: #708090;
+    /*background: #4169E1;*/
+    border-radius: 25px;
+    /*background: #B22222;*/
+  /*background:#96160B;*/
 }
 
 .section{
-  padding-top: 10px;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
 
+.section1{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.appDesc{
+  height: 100px;
+  padding-top: 10px;
+  padding-right: 15px;
+  text-indent: 30px;
+  width: 455px;
+  text-align: justify;
+}
+
+.title{
+text-indent: 30px;
+}
+
+#jobs{
+  color: #333;
 }
