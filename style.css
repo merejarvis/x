@@ -92,7 +92,6 @@ footer{
 
 .appDesc{
   height: 150px;
-  padding-top: 0px;
   padding-right: 15px;
   padding-bottom: 30px;
   text-indent: 30px;
@@ -106,6 +105,7 @@ footer{
 .title{
 text-indent: 30px;
 font-size: 16pt;
+font-weight: 600;
 }
 
 #jobs{
