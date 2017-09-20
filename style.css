@@ -37,6 +37,11 @@ p {
   font-size: 14pt;
 }
 
+#para {
+  text-indent: 50px;
+  font-size: 14pt;
+}
+
 .links{
   color: #DCDCDC;
 }
